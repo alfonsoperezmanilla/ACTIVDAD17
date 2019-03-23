@@ -1,0 +1,66 @@
+#encabezado1{
+	color:#0000ff;
+	background-color: #BEFFEC;
+}
+
+#barralateral{
+	background-color: #08A6D4;
+	height:300px;
+	width:300px;
+	color: #fff;
+	position:fixed;
+	right:0 ;
+}
+
+#barralateral2{
+	float: right;
+	background-color: #08A6D4;
+	height:5000px;
+	width:300px;
+
+
+}
+
+#informacionProcesadores{
+	background-color: #BEFFEC;
+	font-style:normal;
+	font-size: 20px;
+}
+
+#historiaProcesador{
+	background-color: #BEFFEC;
+	font-style:normal;
+	font-size: 20px;
+}
+
+#piePagina{
+	background-color: #08A6D4;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: center; 
+	padding: 20px;  
+	border-top: 5px solid #F4340E; 
+}  
+
+#imagen1{
+  border:10px;
+  width:208px;
+  height:208px;
+
+}
+#imagen2{
+  border:10px;
+  width:208px;
+  height:208px;
+
+}
+
+img{
+	border:10px;
+  	width:208px;
+  	height:208px;
+}
+
+body{
+	background-color: #1B1DDD;
+}
